@@ -1,0 +1,11 @@
+mat-toolbar{
+    background-color:#000;
+    color:#fff;
+}
+span:focus{
+    outline:none;
+}
+.spacer{
+  flex:1 1 auto;
+}
+span{cursor: pointer;}
